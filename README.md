@@ -13,6 +13,13 @@ The backend code is in the `convex` directory.
   
 `npm run dev` will start the frontend and backend servers.
 
+### Dashboard Preview
+
+![Dashboard Part 1](https://raw.githubusercontent.com/aryanpyx/-Soil-to-Sky-MRV/c356dae3f803bf1e45f82dd32d047129256290bd/Dashboard%20part%201.png)
+
+![Dashboard Part 2](https://raw.githubusercontent.com/aryanpyx/-Soil-to-Sky-MRV/c356dae3f803bf1e45f82dd32d047129256290bd/Dashboad%20part%202.png)
+
+
 ## App authentication
 
 Chef apps use [Convex Auth](https://auth.convex.dev/) with Anonymous auth for easy sign in. You may wish to change this before deploying your app.
