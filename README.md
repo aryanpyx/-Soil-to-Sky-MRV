@@ -37,5 +37,8 @@ User-defined http routes are defined in the `convex/router.ts` file. We split th
 
 Try the app:-[ https://chef.show/4f6e15](https://energetic-snake-860.convex.app/)
 
-Developed by Team APYX 
+Developed by Team APYX for NABARD HACKATHON. <img width="2048" height="2048" alt="Gemini_Generated_Image_6nkmaj6nkmaj6nkm" src="https://github.com/user-attachments/assets/a46d6799-5891-4126-a553-990f47df733c" />
+
+
+
 Fellow Members are Aryan Pandey, Utsav Kumar and Sachin Kumar.
