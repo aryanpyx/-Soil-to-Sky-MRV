@@ -41,7 +41,7 @@ Developed by Team APYX for NABARD HACKATHON.
 
 Fellow Members :
 Utsav Kumar - https://github.com/UTSAV1434 
-Sachin Kumar - 
+Sachin Kumar - https://github.com/sachin-git01
 <img width="2048" height="2048" alt="Gemini_Generated_Image_6nkmaj6nkmaj6nkm" src="https://github.com/user-attachments/assets/a46d6799-5891-4126-a553-990f47df733c" />
 
 
