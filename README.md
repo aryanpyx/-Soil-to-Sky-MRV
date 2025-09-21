@@ -1,9 +1,5 @@
 # AgriLens - Crop and Practice Verification App
-  
-This is a project built with [Chef](https://chef.convex.dev) using [Convex](https://convex.dev) as its backend.
- You can find docs about Chef with useful information like how to deploy to production [here](https://docs.convex.dev/chef).
-  
-This project is connected to the Convex deployment named [`energetic-snake-860`](https://dashboard.convex.dev/d/energetic-snake-860).
+
   
 ## Project structure
   
@@ -35,7 +31,9 @@ Check out the [Convex docs](https://docs.convex.dev/) for more information on ho
 
 User-defined http routes are defined in the `convex/router.ts` file. We split these routes into a separate file from `convex/http.ts` to allow us to prevent the LLM from modifying the authentication routes.
 
-Try the app:-[ https://chef.show/4f6e15](https://energetic-snake-860.convex.app/)
+  
+ Try the app:- This project is connected to the Convex deployment named [`energetic-snake-860`](https://dashboard.convex.dev/d/energetic-snake-860).
+
 
 Developed by Team APYX for NABARD HACKATHON.
 
